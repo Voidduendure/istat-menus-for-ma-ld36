@@ -1,4 +1,4 @@
-
+Get the ultimate iStat Menus for macOS plugin with exclusive Plugin for iStat Menus for macOS - file-indexing and screenshot-tools. Featuring file-indexing and screenshot-tools,
 
 
 
